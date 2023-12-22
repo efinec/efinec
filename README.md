@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... rather not say
 - ⚡ Fun fact: ... i 
 
-reposiorty new Code.org
+### Code.org
 (https://efinec.github.io/robot)
-[robot face] (https://studio.code.org/projects/gamelab/F0gH3qcGPRT--lnboCAtWNAaLtp7nz_U-VYZQPGTxU4)
-play with the ever changing robot face
+[robot face](https://studio.code.org/projects/gamelab/F0gH3qcGPRT--lnboCAtWNAaLtp7nz_U-VYZQPGTxU4)
+>play with the ever changing robot face
 
 [captioned scene] (https://studio.code.org/projects/gamelab/FtN6ikHUioWqf8ABZpp8Lq3Wr0JwUdy_q2JJIby6Qb0)
 look at this good starwars scene
@@ -38,7 +38,7 @@ jump from platform to platform while collecting stars. be sure not to fall too l
 play tennis against the other player
 
 
-MIT app inventor
+### MIT app inventor
 [hello its me] (https://ai2.appinventor.mit.edu/#5838372306026496)
 listen to the sounds of a farm using this app inventor
 
