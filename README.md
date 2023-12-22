@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [platform game](https://studio.code.org/projects/gamelab/sBVySgYmxH3I4ygslwP5LKheR4s2Ay140gE6QL7p2as)
 >jump from platform to platform while collecting stars. be sure not to fall too low
 
-[final game design](https://studio.code.org/projects/gamelab/CBtCPpYcB_HhsbdC5sAvNdM6J4x8AP745JGmdEaVnWQ()
+[final game design](https://studio.code.org/projects/gamelab/CBtCPpYcB_HhsbdC5sAvNdM6J4x8AP745JGmdEaVnWQ)
 >play tennis against the other player
 
 
