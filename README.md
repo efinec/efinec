@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 [music maker](https://ai2.appinventor.mit.edu/#5119876999806976)
 >make, record, and play your very own music using 4 instruments
 
-[find the gold](link)
+[find the gold](https://gallery.appinventor.mit.edu/?galleryid=62cc07a4-af7b-4303-b352-46ae9a74227a)
 >collect the pot of gold through the maze using the ball
 
 [food chase](https://gallery.appinventor.mit.edu/?galleryid=3221c0b0-3f67-45b5-aae4-8f4be3545027)
->collect the animals to increase your score with a ball that grows in size with each collect. do not hit the green ball or the game is over. 
+>collect the animals to increase your score with a ball that grows in size with each collect. Do not hit the green ball or the game is over 
 
