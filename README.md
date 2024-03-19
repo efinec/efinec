@@ -56,8 +56,7 @@ Here are some ideas to get you started:
 >collect the animals to increase your score with a ball that grows in size with each collect. Do not hit the green ball or the game is over 
 
 
-###CMU Cs Academy
-
+### CMU Cs Academy
 [unit 1 creative task](https://academy.cs.cmu.edu/exercise/4135/)
 >a lovely night scene with the sky and the moon. see the moon's reflection on the objects below
 
