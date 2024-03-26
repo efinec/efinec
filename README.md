@@ -62,3 +62,6 @@ Here are some ideas to get you started:
 
 [unit 2 creative task](https://academy.cs.cmu.edu/exercise/6402/)
 >the smiley faces will mirrior. click on the dots to create alarger image :)
+
+[unit 3 creative task](https://academy.cs.cmu.edu/exercise/4231/)
+>click on the scrren to add a lovely cat face. but, each side produces a different colored cat face. however, click enough cats and there will be a twist.
