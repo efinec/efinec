@@ -65,3 +65,6 @@ Here are some ideas to get you started:
 
 [unit 3 creative task](https://academy.cs.cmu.edu/exercise/4231/)
 >click on the scrren to add a lovely cat face. but, each side produces a different colored cat face. however, click enough cats and there will be a twist.
+
+[unit 4 creative task](https://academy.cs.cmu.edu/exercise/4282/)
+>you control the player on the left. your friend has a bug on his head and you need to knock it off, but he does not know that you are trying to help him so he is trying to dodge your shots. hit the bug enough times to end the game.
