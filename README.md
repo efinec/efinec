@@ -68,3 +68,6 @@ Here are some ideas to get you started:
 
 [unit 4 creative task](https://academy.cs.cmu.edu/exercise/4282/)
 >you control the player on the left. your friend has a bug on his head and you need to knock it off, but he does not know that you are trying to help him so he is trying to dodge your shots. hit the bug enough times to end the game.
+
+[unit 5 creative task](https://academy.cs.cmu.edu/exercise/4314/)
+>you know the dvd screen saver? yeah well this is basically that. but theres a twist, hit the star to find a color surprise
